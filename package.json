@@ -1,0 +1,12 @@
+{
+  "name": "generator-webappengine",
+  "version": "0.1.0",
+  "description": "A Yeoman Generator for WebAppEngine. It includes Gulp, Browserify, Babelify, Stylus, and React.",
+  "files": [
+    "app"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.20.2"
+  }
+}
