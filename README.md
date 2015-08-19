@@ -1,2 +1,5 @@
 # generator-webappengine
-A Yeoman Generator for [WebAppEngine](https://github.com/cheton/webappengine). It includes Gulp, Browserify, Babelify, Stylus, and React.
+
+[![NPM](https://nodei.co/npm/generator-webappengine.png?downloads=true&stars=true)](https://nodei.co/npm/webappengine/)    
+
+A Yeoman Generator for [WebAppEngine](https://github.com/cheton/generator-webappengine). It includes Gulp, Browserify, Babelify, Stylus, and React.
