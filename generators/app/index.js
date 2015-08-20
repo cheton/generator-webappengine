@@ -48,6 +48,7 @@ var WebAppEngineGenerator = generators.Base.extend({
             'gulp',
             'web',
             this.includeApp ? 'app' : { src: '_index.html', dest: 'web/index.html' },
+            { src: 'index.js', dest: 'index.js' },
             { src: '_gulpfile.js', dest: 'gulpfile.js' },
             { src: 'bowerrc', dest: '.bowerrc' },
             { src: 'eslintrc', dest: '.eslintrc' },
