@@ -1,7 +1,7 @@
 {
   "name": "generator-webappengine",
   "version": "0.1.1",
-  "description": "A Yeoman Generator for WebAppEngine. It includes Gulp, Browserify, Babelify, Stylus, and React.",
+  "description": "A Yeoman Generator for WebAppEngine. It includes Gulp, Browserify, Babelify, Stylus, Handlebars, i18next, and React.",
   "homepage": "https://github.com/cheton/generator-webappengine",
   "author": "Cheton Wu <cheton@gmail.com>",
   "repository": {
@@ -19,8 +19,11 @@
     "generators"
   ],
   "keywords": [
-    "yeoman-generator",
-    "webappengine"
+    "boilerplate",
+    "generator",
+    "scaffold",
+    "webappengine",
+    "yeoman-generator"
   ],
   "dependencies": {
     "yeoman-generator": "^0.20.2"
