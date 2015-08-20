@@ -20,6 +20,8 @@ $ gulp
 ```
 
 Now you can run `node app/main.js` to launch your web app, or use webappengine to load [app.js](/generators/app/templates/app/app.js). For example:
+
+[index.js](/generators/app/templates/index.js):
  ```js
 var path = require('path');
 var webappengine = require('webappengine');
