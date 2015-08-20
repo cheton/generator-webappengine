@@ -44,6 +44,7 @@ var WebAppEngineGenerator = generators.Base.extend({
     copyFiles: function() {
         var filemaps = [
             'config',
+            'dist',
             'gulp',
             'web',
             this.includeApp ? 'app' : { src: '_index.html', dest: 'web/index.html' },
