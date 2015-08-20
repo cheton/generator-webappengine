@@ -30,6 +30,7 @@ webappengine({
         {
             type: 'server',
             route: '/',
+            // An absolute path is recommended to use
             server: path.resolve(__dirname, 'app/app')
         }
     ]
