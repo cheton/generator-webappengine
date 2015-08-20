@@ -1,6 +1,6 @@
 {
   "name": "generator-webappengine",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A Yeoman Generator for WebAppEngine. It includes Gulp, Browserify, Babelify, Stylus, Handlebars, i18next, and React.",
   "homepage": "https://github.com/cheton/generator-webappengine",
   "author": "Cheton Wu <cheton@gmail.com>",
