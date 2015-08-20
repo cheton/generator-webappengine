@@ -19,4 +19,17 @@ $ bower install
 $ gulp
 ```
 
-Now you can run `node app/main.js` to launch your web app.
+Now you can run `node app/main.js` to launch your web app, or use webappengine to load [app.js](/generators/app/templates/app/app.js). For example:
+ ```js
+ var webappengine = require('webappengine');
+ webappengine({
+     port: 80,
+     routes: [
+         {
+             type: 'server',
+             route: '/',
+             server: '/path/to/your/project/app/app'
+         }
+     ]
+ });
+ ```
