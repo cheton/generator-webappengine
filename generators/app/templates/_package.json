@@ -38,7 +38,8 @@
     "sprintf": "0.1.x",
     "string-format": "0.2.x",
     "superagent": "0.21.x",
-    "winston": "0.7.x"
+    "winston": "0.7.x",
+    "webappengine": "latest"
   },
   "devDependencies": {
     "amd-optimize": "0.3.x",
