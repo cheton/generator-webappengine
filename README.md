@@ -38,3 +38,9 @@ webappengine({
     ]
 });
 ```
+
+## License
+
+Copyright (c) 2015 Cheton Wu
+
+Licensed under the [MIT License](LICENSE).
